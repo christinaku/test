@@ -1,0 +1,113 @@
+* {
+	margin: 0;
+	padding:0;
+
+	/*border: 1px solid rgba(0,0,0,0.3);*/
+}
+
+body {
+    font-family: 'Droid Sans', sans-serif;
+		font-size: 16px;
+}
+
+h1 {
+		font-family: 'Ek Mukta', sans-serif;
+		font-size: 30px;
+}
+
+h3 {
+	font-family: 'Ek Mukta', sans-serif;
+	font-size: 22px;
+}
+
+ul {
+  list-style: none;
+}
+
+#title {
+	width: 525px;
+	margin: 0 auto;
+	padding: 5px;
+}
+
+#inputSection {
+  width: 500px;
+  padding: 5px;
+  margin: 0 auto;
+}
+
+input {
+	margin: 5px;
+	padding: 5px;
+}
+
+#middle {
+	width: 750px;
+	margin: 0 auto;
+}
+
+.buttonSection {
+	display: inline-block;
+  width: 105px;
+  padding: 5px;
+	border-color: green;
+}
+
+.buttonList{
+	display: inline-block;
+}
+
+.buttons{
+  width: 100px;
+  border-radius: 15px;
+	margin-bottom: 50px;
+	background-color: darkgrey;
+}
+
+#map{
+  display: inline-block;
+  width: 500px;
+  height: 500px;
+  padding 10px;
+	border-color: blue;
+  margin: 0 auto;
+}
+
+#listInfo{
+  width: 700px;
+  padding 5px;
+  margin: 0 auto;
+}
+
+#listInfo li{
+	margin: 5px;
+	padding: 10px;
+}
+
+.highlight {
+	outline: solid 3px grey;
+}
+
+.tourquoise{
+	background-color: #66ffcc;
+}
+
+.pink{
+	background-color: #ffccff;
+}
+
+.blue{
+	background-color: #6699ff;
+}
+
+.yellow{
+	background-color: #ffff99;
+}
+
+.orange{
+	background-color: #ffcc99;
+}
+
+.error{
+	background-color: silver;
+}
